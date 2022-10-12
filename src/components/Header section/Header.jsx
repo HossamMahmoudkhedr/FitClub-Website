@@ -31,7 +31,15 @@ const Header = () => {
                 <li onClick={()=>{setMenuOpened(false)}}><a href="#testmonials">Testmonials</a></li>
             </ul>    
             )
-            :  ""}
+                : ""}
+            {!mobile ? (<ul className='header-menu'>
+                <li ><a href="#home">Home</a></li>
+                <li ><a href="#programs">Programs</a></li>
+                <li ><a href="#reason">Why us</a></li>
+                <li ><a href="#plans">Plans</a></li>
+                <li ><a href="#testmonials">Testmonials</a></li>
+            </ul>  ): ''}
+            
             
         </div>
     )
