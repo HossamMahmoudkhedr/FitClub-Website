@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FitClub-Website/static/css/main.b057e3bb.css",
-    "main.js": "/FitClub-Website/static/js/main.ab38b08e.js",
+    "main.js": "/FitClub-Website/static/js/main.b1499ad9.js",
     "static/media/hero_image.png": "/FitClub-Website/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/FitClub-Website/static/media/t-image1.c16c2c261034cf78ee57.png",
     "static/media/image1.png": "/FitClub-Website/static/media/image1.1091417d32e491f0bbb6.png",
@@ -13,10 +13,10 @@
     "static/media/hero_image_back.png": "/FitClub-Website/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/FitClub-Website/index.html",
     "main.b057e3bb.css.map": "/FitClub-Website/static/css/main.b057e3bb.css.map",
-    "main.ab38b08e.js.map": "/FitClub-Website/static/js/main.ab38b08e.js.map"
+    "main.b1499ad9.js.map": "/FitClub-Website/static/js/main.b1499ad9.js.map"
   },
   "entrypoints": [
     "static/css/main.b057e3bb.css",
-    "static/js/main.ab38b08e.js"
+    "static/js/main.b1499ad9.js"
   ]
 }
